@@ -1,2 +1,0 @@
-# autoclick
-click
